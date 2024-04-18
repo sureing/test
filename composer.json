@@ -4,5 +4,6 @@
     "require": {
         "php": ">=8.0",
         "eykj/base": "^1.0.2"
-    }
+    },
+    "license": "MIT"
 }
